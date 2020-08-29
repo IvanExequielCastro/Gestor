@@ -1,0 +1,1 @@
+Distincion entre usuarios desde URL y con verificacion de datos
